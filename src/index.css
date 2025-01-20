@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.board-box {
+    width: 50px;
+    height: 50px;
+    border-color: brown;
+    border-width: 2px;
+}
